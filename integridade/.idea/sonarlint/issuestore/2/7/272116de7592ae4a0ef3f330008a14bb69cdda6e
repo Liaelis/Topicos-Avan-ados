@@ -1,0 +1,24 @@
+
+h
+java:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(‘¯ƒÒıÿÿÿÿ
+k	java:S117?"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ª¶îÁÿÿÿÿÿ
+k	java:S117G"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ĞôĞ¸şÿÿÿÿ
+N	java:S106Y"9Replace this use of System.out or System.err by a logger.(›Ê©ı
+>
+java:S5542?"#Use secure mode and padding scheme.(ª¶îÁÿÿÿÿÿ
+f	java:S1174"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ë•Õß
+_
+java:S2095)"DUse try-with-resources or close this "Socket" in a "finally" clause.(°«šëùÿÿÿÿ
+[
+java:S4426"@Use a key length of at least 2048 bits for RSA cipher algorithm.(¦¹Çğùÿÿÿÿ
+f	java:S117E"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñÂ°
+G
+java:S1481;"1Remove this unused "chave_sessao" local variable.(„¹²å
+`
+java:S2674"JCheck the return value of the "read" call to see how many bytes were read.(€êÈÃ
+f	java:S117;"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„¹²å
+>
+java:S55422"#Use secure mode and padding scheme.(»¦µªúÿÿÿÿ
+k	java:S117A"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø«ŠŠùÿÿÿÿ
+9
+java:S5542E"#Use secure mode and padding scheme.(ñÂ°

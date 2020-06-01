@@ -1,0 +1,22 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(™Üé¨üÿÿÿÿ
+N	java:S106'"9Replace this use of System.out or System.err by a logger.(±ú¥
+[
+java:S4426"@Use a key length of at least 2048 bits for RSA cipher algorithm.(¦¹Çğùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(İç©ƒúÿÿÿÿ
+=
+java:S2189""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ
+>
+java:S5542:"#Use secure mode and padding scheme.(ª¶îÁÿÿÿÿÿ
+N	java:S106H"9Replace this use of System.out or System.err by a logger.(ûªÎı
+k	java:S117:"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ª¶îÁÿÿÿÿÿ
+k	java:S1176"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë™…Èıÿÿÿÿ
+S	java:S106K"9Replace this use of System.out or System.err by a logger.(âûœ•ùÿÿÿÿ
+e
+java:S2095"JUse try-with-resources or close this "ServerSocket" in a "finally" clause.(ñ·òÔúÿÿÿÿ
+>
+java:S5542."#Use secure mode and padding scheme.(‰şèØûÿÿÿÿ
+k	java:S117<"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Óíè‘øÿÿÿÿ
+N	java:S106E"9Replace this use of System.out or System.err by a logger.(ÅÖ‡”
+>
+java:S55424"#Use secure mode and padding scheme.(»¦µªúÿÿÿÿ
