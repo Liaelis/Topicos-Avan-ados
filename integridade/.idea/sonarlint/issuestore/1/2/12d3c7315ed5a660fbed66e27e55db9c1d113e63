@@ -1,22 +1,22 @@
 
-S	java:S106"9Replace this use of System.out or System.err by a logger.(™Üé¨üÿÿÿÿ
-N	java:S106'"9Replace this use of System.out or System.err by a logger.(±ú¥
-[
-java:S4426"@Use a key length of at least 2048 bits for RSA cipher algorithm.(¦¹Çðùÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(Ýç©ƒúÿÿÿÿ
-=
-java:S2189""Add an end condition to this loop.(˜ïˆžÿÿÿÿÿ
->
-java:S5542:"#Use secure mode and padding scheme.(ª¶îÁÿÿÿÿÿ
-N	java:S106H"9Replace this use of System.out or System.err by a logger.(ûªÎý
 k	java:S117:"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ª¶îÁÿÿÿÿÿ
-k	java:S1176"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë™…Èýÿÿÿÿ
-S	java:S106K"9Replace this use of System.out or System.err by a logger.(âûœ•ùÿÿÿÿ
+N	java:S106'"9Replace this use of System.out or System.err by a logger.(±ú¥
 e
 java:S2095"JUse try-with-resources or close this "ServerSocket" in a "finally" clause.(ñ·òÔúÿÿÿÿ
 >
 java:S5542."#Use secure mode and padding scheme.(‰þèØûÿÿÿÿ
-k	java:S117<"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Óíè‘øÿÿÿÿ
 N	java:S106E"9Replace this use of System.out or System.err by a logger.(ÅÖ‡”
 >
+java:S5542:"#Use secure mode and padding scheme.(ª¶îÁÿÿÿÿÿ
+S	java:S106K"9Replace this use of System.out or System.err by a logger.(âûœ•ùÿÿÿÿ
+k	java:S1176"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë™…Èýÿÿÿÿ
+>
 java:S55424"#Use secure mode and padding scheme.(»¦µªúÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ýç©ƒúÿÿÿÿ
+N	java:S106H"9Replace this use of System.out or System.err by a logger.(ûªÎý
+[
+java:S4426"@Use a key length of at least 2048 bits for RSA cipher algorithm.(¦¹Çðùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(™Üé¨üÿÿÿÿ
+k	java:S117<"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Óíè‘øÿÿÿÿ
+=
+java:S2189""Add an end condition to this loop.(˜ïˆžÿÿÿÿÿ
