@@ -1,0 +1,21 @@
+
+p
+java:S2095C"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(ò¯Í‹ÿÿÿÿÿ8ºË€“§.
+E
+java:S1148<"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8‰è´•©.
+E
+java:S1148J"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8‰è´•©.
+l
+java:S20950"OUse try-with-resources or close this "ObjectInputStream" in a "finally" clause.(´¢Žß8‰è´•©.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ßé‘Ü8åßá•©.
+o
+java:S2095/"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(†ú³óùÿÿÿÿ8¶Ö÷ý§.
+r
+java:S2095D"PUse try-with-resources or close this "ObjectOutputStream" in a "finally" clause.(¾Ô¹üÿÿÿÿ8‰è´•©.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ñ‰þåúÿÿÿÿ8û—´•©.
+E
+java:S1148'"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8‰è´•©.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ªÕâÊ8åßá•©.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ãßà¨ùÿÿÿÿ8åßá•©.
+E
+java:S5542""#Use secure mode and padding scheme.(»¦µªúÿÿÿÿ8‰è´•©.

@@ -1,0 +1,14 @@
+
+Z	java:S106#"9Replace this use of System.out or System.err by a logger.(Úƒ…›ýÿÿÿÿ8Þ©¨’©.
+E
+java:S1148 "#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8œ·§’©.
+E
+java:S5542."#Use secure mode and padding scheme.(»¦µªúÿÿÿÿ8î·ª•©.
+U	java:S1062"9Replace this use of System.out or System.err by a logger.(òý®Ð8î·ª•©.
+E
+java:S5542"#Use secure mode and padding scheme.(»¦µªúÿÿÿÿ8œ·§’©.
+E
+java:S11485"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8¾‚„–©.
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ªí…ûøÿÿÿÿ8ø¨Šˆ©.
+Z	java:S1068"9Replace this use of System.out or System.err by a logger.(œà‚¹ûÿÿÿÿ8¾‚„–©.

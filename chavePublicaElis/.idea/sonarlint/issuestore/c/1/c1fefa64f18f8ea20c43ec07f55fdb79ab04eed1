@@ -1,0 +1,19 @@
+
+J
+java:S1481U"(Remove this unused "res" local variable.(¹É¹úÿÿÿÿ8Úëï’©.
+J
+java:S1481c"(Remove this unused "bol" local variable.(€ııÿøÿÿÿÿ8…õ‚Œ©.
+U	java:S106n"9Replace this use of System.out or System.err by a logger.(öÖ¿8’¼İ’©.
+P
+java:S1481G".Remove this unused "resultado" local variable.(©ªòüÿÿÿÿ8ù‡ş‚©.
+h
+java:S1192h"KDefine a constant instead of duplicating this literal "text/plain" 3 times.(Ø€­†8’¼İ’©.
+G
+java:S14818"*Remove this unused "resul" local variable.(•Ğ‚œ8¡¦È’©.
+Z	java:S106)"9Replace this use of System.out or System.err by a logger.(äÊ©£ùÿÿÿÿ8œâÆ¶§.
+L
+java:S1481"/Remove this unused "resultRAIZ" local variable.(×ä£ª8ÄÖ¿’©.
+]	java:S125"<This block of commented-out lines of code should be removed.(òŠ’øÿÿÿÿ8ÄÖ¿’©.
+U	java:S106("9Replace this use of System.out or System.err by a logger.(ğÛµº8Û¿üµ§.
+E
+java:S1148p"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8å€äˆ©.

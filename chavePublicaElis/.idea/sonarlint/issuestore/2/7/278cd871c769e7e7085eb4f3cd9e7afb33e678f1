@@ -1,0 +1,21 @@
+
+p
+java:S2095?"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(ÿ‡©óşÿÿÿÿ8“Ïñ’§.
+r
+java:S2095@"PUse try-with-resources or close this "ObjectOutputStream" in a "finally" clause.(¾Ô¹üÿÿÿÿ8“Ïñ’§.
+E
+java:S11486"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8‰¢“•©.
+E
+java:S5542."#Use secure mode and padding scheme.(»¦µªúÿÿÿÿ8‰¢“•©.
+Z	java:S106:"9Replace this use of System.out or System.err by a logger.(ê“ğªûÿÿÿÿ8Ÿÿ••©.
+b
+java:S4426"@Use a key length of at least 2048 bits for RSA cipher algorithm.(Úğö³øÿÿÿÿ8Õ‡’§.
+l
+java:S2095O"OUse try-with-resources or close this "ObjectInputStream" in a "finally" clause.(œŞâæ8ƒå¤¶§.
+E
+java:S1148H"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8‘¨Ú’§.
+o
+java:S2095N"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(ü€òµıÿÿÿÿ8ƒå¤¶§.
+E
+java:S1148U"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8´¥š¶§.
+Z	java:S106D"9Replace this use of System.out or System.err by a logger.(óÊş£ÿÿÿÿÿ8íí‰¤©.
